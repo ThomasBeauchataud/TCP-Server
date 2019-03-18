@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1552912431 source:d:\_code_programmes\programme_c\lab5_e8\main.c
+	<stdio.h>
+	<string.h>
+	<pthread.h>
+	<winsock2.h>
+	<stdlib.h>
+	"sqlite3.h"
+
+1552326240 d:\_code_programmes\programme_c\lab5_e8\client_th.h
+	<pthread.h>
+	<winsock2.h>
+	<string.h>
+
+1552326129 source:d:\_code_programmes\programme_c\lab5_e8\client_th.c
+	<pthread.h>
+	<winsock2.h>
+	<string.h>
+	"client_th.h"
+
+1552326218 source:d:\_code_programmes\programme_c\lab5_e8\tools.c
+	<string.h>
+	<stdio.h>
+
+1551112324 d:\_code_programmes\programme_c\lab5_e8\sqlite3.h
+	<stdarg.h>
+
